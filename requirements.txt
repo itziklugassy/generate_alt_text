@@ -1,0 +1,8 @@
+
+### requirements.txt
+The `requirements.txt` will list all the necessary Python packages that need to be installed to run your project. Based on the imports and the description from your script, here's what it should include:
+
+```plaintext
+Pillow
+transformers
+torch
